@@ -1,2 +1,3 @@
 Here are the some basic notes
 added into basic working process
+message adding to test the log file...!!
