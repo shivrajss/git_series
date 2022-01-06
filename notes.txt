@@ -4,7 +4,7 @@ git clone -- to download from remote repository
 Git status -- initilizing the git status 
 git config color.ui true -- Changing the color in Git repository
 vi notes.txt --- add the content to the text window
-
+---
 
 git add [file name] -- take the file and add it to the basket
 git add . --- to add all the file names together without initilizing with the file name
