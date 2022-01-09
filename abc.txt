@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is a OLD file`
 
+=======
+this is a ANOTHER file`
+>>>>>>> conf
